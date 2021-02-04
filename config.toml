@@ -1,4 +1,4 @@
-baseURL = "https://atechguy-web-ijpl3.ondigitalocean.app/"
+baseURL = "https://atechguy.digital/"
 languageCode = "en-us"
 title = "A Tech Guy"
 theme = "ink"
